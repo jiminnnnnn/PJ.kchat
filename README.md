@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 	신지민
  	황윤호
   	이준기
-### 3.역할분담
-	신지민 : 카카오톡 챗봇 제작, 챗gpt api를 활용해 연동
+### 3.역할
+	카카오톡 챗봇 제작, 챗gpt api를 활용해 연동
 <br/>
 <br/>
 
