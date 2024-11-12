@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## 👋 재난 대비 챗봇
 데이터 분석을 통해 GS25에게 공유우산 사업을 제안하는 프로젝트
 <br/>
+
+[![image](https://github.com/user-attachments/assets/548dee7d-9c6a-4b8a-b15a-1b769fe2ff53)](<https://github.com/jiminnnnnn/PJ.kchat>)
 <br/>
 
 ## 🌱 프로젝트 정보
