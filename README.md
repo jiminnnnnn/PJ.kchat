@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ### API 활용 및 연동: KakaoTalk API, OpenAI API (ChatGPT) 
 ### 챗봇 개발: 카카오톡 플랫폼에 특화된 챗봇 설계 및 구현 
 ### 프롬프트 엔지니어링: 효과적인 프롬프트 작성 및 테스트
-
+<br/>
+<br/>
 ## ⚡핵심기능
 ### 	1. 재난 시 
 ### 	2. 데이터 수집 및 자연어 처리를 통해 우산 필요성
