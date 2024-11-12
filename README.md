@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## 👋 재난 대비 챗봇
 데이터 분석을 통해 GS25에게 공유우산 사업을 제안하는 프로젝트
+<br/>
+<br/>
 
 ## 🌱 프로젝트 정보
 ### 1.제작기간
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
   	이준기
 ### 3.역할분담
 	신지민 : 카카오톡 챗봇 제작, 챗gpt api를 활용해 연동
+<br/>
+<br/>
 
 ## ⚡사용기술
 ### 프로그래밍 언어: Python 
@@ -41,7 +45,9 @@ Here are some ideas to get you started:
 ### 	1. 재난 시 
 ### 	2. 데이터 수집 및 자연어 처리를 통해 우산 필요성
 ###  	3. GS25와 공유우산 결합
-   
+<br/>
+<br/>
+
 ## ⚡핵심기능
 ### 	1.참고 사이트
 <https://www.notion.so/be6863e600af4dab8491a1a9cf98c165>
